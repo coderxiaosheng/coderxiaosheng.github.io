@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://coderxiaosheng.github.io/"
-title = "Hugo 主题 MemE"
+title = "程序员小盛"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # 摘要的字数限制
-summaryLength = 42
+summaryLength = 200
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
 enableEmoji = false
@@ -348,7 +348,7 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2023-07-20T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
@@ -491,7 +491,7 @@ uglyURLs = false
     # 深色模式
 
     # 是否开启
-    enableDarkMode = true
+    enableDarkMode = false
 
     # 默认模式
     defaultTheme = "light"
@@ -689,13 +689,13 @@ uglyURLs = false
 
     # 说明：仅在生产环境（production）下渲染
 
-    enableGoogleAnalytics = false
+    enableGoogleAnalytics = true
 
     # 跟踪代码的类型
     trackingCodeType = "gtag"
     # 说明：gtag 或 analytics
 
-    trackingID = ""
+    trackingID = "G-TVQ1KPX3TW"
 
 
     ######################################
